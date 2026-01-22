@@ -1,74 +1,63 @@
-#include <vector>
-#include <string>
-#include <unordered_map>
-#include <unordered_set>
-#include <queue>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_map<string, int> depthMap;
-        vector<vector<string>> ans;
-        
-        // BFS to find the shortest path
-        unordered_set<string> wordSet(wordList.begin(), wordList.end());
-        queue<string> q;
+        unordered_map<string,int>depth;
+        vector<vector<string>>ans;
+        unordered_set<string>st(wordList.begin(),wordList.end());
+        queue<string>q;
         q.push(beginWord);
-        depthMap[beginWord] = 1;
-        wordSet.erase(beginWord);
-        
-        while (!q.empty()) {
+        st.erase(beginWord);
+        depth[beginWord] = 1;
+
+        while(!q.empty()){
             string word = q.front();
             q.pop();
-            int steps = depthMap[word];
-            if (word == endWord) break;
-            for (int i = 0; i < word.size(); ++i) {
-                char original = word[i];
-                for (char ch = 'a'; ch <= 'z'; ++ch) {
-                    word[i] = ch;
-                    if (wordSet.count(word)) {
+            int steps = depth[word];
+            if(word == endWord) break;
+            for(int i=0;i<word.size();i++){
+                char ori = word[i];
+                for(char a='a';a<='z';a++){
+                    word[i] = a;
+                    if(st.count(word)){
                         q.push(word);
-                        wordSet.erase(word);
-                        depthMap[word] = steps + 1;
+                        depth[word] =steps+1;
+                        st.erase(word);
                     }
                 }
-                word[i] = original;
+                word[i] = ori;
             }
         }
-        
-        // DFS to find all paths
-        if (depthMap.count(endWord)) {
-            vector<string> seq = {endWord};
-            dfs(endWord, beginWord, seq, depthMap, ans);
+
+
+        if(depth.count(endWord)){
+            vector<string>res = {endWord};
+            dfs(endWord,beginWord,res,depth,ans,st);
         }
-        
+
         return ans;
     }
-    
-private:
-    void dfs(string word, string beginWord, vector<string>& seq, unordered_map<string, int>& depthMap, vector<vector<string>>& ans) {
-        if (word == beginWord) {
-            reverse(seq.begin(), seq.end());
-            ans.push_back(seq);
-            reverse(seq.begin(), seq.end());
+
+    void dfs(string word,string startWord,vector<string>&res,unordered_map<string,int>&depth,vector<vector<string>>&ans,unordered_set<string>&st){
+        if(word==startWord){
+            reverse(res.begin(),res.end());
+            ans.push_back(res);
+            reverse(res.begin(),res.end());
             return;
         }
-        
-        int steps = depthMap[word];
-        for (int i = 0; i < word.size(); ++i) {
-            char original = word[i];
-            for (char ch = 'a'; ch <= 'z'; ++ch) {
-                word[i] = ch;
-                if (depthMap.count(word) && depthMap[word] + 1 == steps) {
-                    seq.push_back(word);
-                    dfs(word, beginWord, seq, depthMap, ans);
-                    seq.pop_back();
+
+        int steps = depth[word];
+        for(int i=0;i<word.size();i++){
+            char aa = word[i];
+            for(char c='a';c<='z';c++){
+                word[i] = c;
+                if(depth.count(word) && depth[word]+1 == steps){
+                    res.push_back(word);
+                    dfs(word,startWord,res,depth,ans,st);
+                    res.pop_back();
                 }
             }
-            word[i] = original;
+            word[i] = aa;
         }
+
     }
 };
