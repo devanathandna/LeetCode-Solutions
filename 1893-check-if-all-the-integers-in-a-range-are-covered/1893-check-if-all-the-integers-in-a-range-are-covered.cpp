@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool isCovered(vector<vector<int>>& ranges, int left, int right) {
-        bool flag = true;
-        for(auto it:ranges){
-            int v = it[0];
-            int u = it[1];
-            if(v < left && u < left) flag = false;
-            if(v>right && u > right) flag = false;
+        for(int x = left;x<=right;x++){
+            bool c = false;
+            for(auto it:ranges){
+                if(x>=it[0] && x<=it[1]){
+                    c = true;
+                    break;
+                }
+            }
+            if(!c) return false;
         }
-        return flag;
+        return true;
     }
 };
