@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-06-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "LeetCode_Number_of_Ways_to_Assign_Edge_Weights_I": true,
     "LeetCode_Palindrome_Number": true,
     "LeetCode_Weighted_Word_Mapping": true,
-    "LeetCode_Second_Highest_Salary": true
+    "LeetCode_Second_Highest_Salary": true,
+    "LeetCode_DNA_Pattern_Recognition_": true
   },
   "activityHistory": {
     "2026-06-10": 1,
     "2026-06-11": 1,
     "2026-06-12": 1,
-    "2026-06-13": 2
+    "2026-06-13": 3
   },
   "todayProblems": [
     "Weighted Word Mapping",
-    "Second Highest Salary"
+    "Second Highest Salary",
+    "DNA Pattern Recognition "
   ]
 }
