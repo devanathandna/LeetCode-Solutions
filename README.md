@@ -6,3 +6,4 @@
 | 4 | [Weighted Word Mapping](./LeetCode/Easy/Weighted%20Word%20Mapping) | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | Easy | 13 Jun 2026 | 02:50 pm |
 | 5 | [Second Highest Salary](./LeetCode/Medium/Second%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/second-highest-salary/) | Medium | 13 Jun 2026 | 06:45 pm |
 | 6 | [DNA Pattern Recognition ](./LeetCode/Medium/DNA%20Pattern%20Recognition%20) | [LeetCode](https://leetcode.com/problems/dna-pattern-recognition/) | Medium | 13 Jun 2026 | 07:23 pm |
+| 7 | [Maximum Twin Sum of a Linked List](./LeetCode/Medium/Maximum%20Twin%20Sum%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | 14 Jun 2026 | 11:07 am |
