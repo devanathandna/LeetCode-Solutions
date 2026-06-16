@@ -8,3 +8,4 @@
 | 6 | [DNA Pattern Recognition ](./LeetCode/Medium/DNA%20Pattern%20Recognition%20) | [LeetCode](https://leetcode.com/problems/dna-pattern-recognition/) | Medium | 13 Jun 2026 | 07:23 pm |
 | 7 | [Maximum Twin Sum of a Linked List](./LeetCode/Medium/Maximum%20Twin%20Sum%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | 14 Jun 2026 | 11:07 am |
 | 8 | [Delete the Middle Node of a Linked List](./LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 15 Jun 2026 | 05:21 pm |
+| 9 | [Nth Highest Salary](./LeetCode/Medium/Nth%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/nth-highest-salary/) | Medium | 16 Jun 2026 | 09:20 pm |
