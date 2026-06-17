@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-06-16",
+  "totalSolved": 10,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-06-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 7,
     "hard": 0,
     "basic": 0
@@ -19,7 +19,8 @@
     "LeetCode_DNA_Pattern_Recognition_": true,
     "LeetCode_Maximum_Twin_Sum_of_a_Linked_List": true,
     "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
-    "LeetCode_Nth_Highest_Salary": true
+    "LeetCode_Nth_Highest_Salary": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -28,9 +29,10 @@
     "2026-06-13": 3,
     "2026-06-14": 1,
     "2026-06-15": 1,
-    "2026-06-16": 1
+    "2026-06-16": 1,
+    "2026-06-17": 1
   },
   "todayProblems": [
-    "Nth Highest Salary"
+    "Two Sum"
   ]
 }
