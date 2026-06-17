@@ -10,3 +10,4 @@
 | 8 | [Delete the Middle Node of a Linked List](./LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 15 Jun 2026 | 05:21 pm |
 | 9 | [Nth Highest Salary](./LeetCode/Medium/Nth%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/nth-highest-salary/) | Medium | 16 Jun 2026 | 09:20 pm |
 | 10 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 17 Jun 2026 | 05:44 pm |
+| 11 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 17 Jun 2026 | 06:09 pm |
