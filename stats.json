@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 8,
+  "totalSolved": 13,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-17",
-  "todayCount": 3,
+  "lastSyncDate": "2026-06-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 0
   },
@@ -22,7 +22,8 @@
     "LeetCode_Nth_Highest_Salary": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_Group_Anagrams": true,
-    "LeetCode_Top_K_Frequent_Elements": true
+    "LeetCode_Top_K_Frequent_Elements": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -32,11 +33,10 @@
     "2026-06-14": 1,
     "2026-06-15": 1,
     "2026-06-16": 1,
-    "2026-06-17": 3
+    "2026-06-17": 3,
+    "2026-06-19": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Group Anagrams",
-    "Top K Frequent Elements"
+    "Product of Array Except Self"
   ]
 }
