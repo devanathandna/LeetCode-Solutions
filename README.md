@@ -14,3 +14,4 @@
 | 12 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 17 Jun 2026 | 10:25 pm |
 | 13 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 19 Jun 2026 | 01:35 pm |
 | 14 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 19 Jun 2026 | 02:15 pm |
+| 15 | [Maximum Ice Cream Bars](./LeetCode/Medium/Maximum%20Ice%20Cream%20Bars) | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | 21 Jun 2026 | 11:11 am |

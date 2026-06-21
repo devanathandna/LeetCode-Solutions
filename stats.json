@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 0
   },
@@ -24,7 +24,8 @@
     "LeetCode_Group_Anagrams": true,
     "LeetCode_Top_K_Frequent_Elements": true,
     "LeetCode_Product_of_Array_Except_Self": true,
-    "LeetCode_Longest_Consecutive_Sequence": true
+    "LeetCode_Longest_Consecutive_Sequence": true,
+    "LeetCode_Maximum_Ice_Cream_Bars": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -35,10 +36,10 @@
     "2026-06-15": 1,
     "2026-06-16": 1,
     "2026-06-17": 3,
-    "2026-06-19": 2
+    "2026-06-19": 2,
+    "2026-06-21": 1
   },
   "todayProblems": [
-    "Product of Array Except Self",
-    "Longest Consecutive Sequence"
+    "Maximum Ice Cream Bars"
   ]
 }
