@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-06-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 13,
+    "medium": 14,
     "hard": 0,
     "basic": 0
   },
@@ -26,7 +26,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Maximum_Ice_Cream_Bars": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Majority_Element_II": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -38,10 +39,11 @@
     "2026-06-16": 1,
     "2026-06-17": 3,
     "2026-06-19": 2,
-    "2026-06-21": 2
+    "2026-06-21": 3
   },
   "todayProblems": [
     "Maximum Ice Cream Bars",
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Majority Element II"
   ]
 }
