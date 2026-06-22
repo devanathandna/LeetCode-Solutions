@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 2,
   "maxStreak": 8,
   "lastSyncDate": "2026-06-22",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "LeetCode_Majority_Element_II": true,
     "LeetCode_Maximum_Number_of_Balloons": true,
     "LeetCode_Find_All_Duplicates_in_an_Array": true,
-    "LeetCode_Continuous_Subarray_Sum": true
+    "LeetCode_Continuous_Subarray_Sum": true,
+    "LeetCode_Maximum_Product_Subarray": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -43,11 +44,12 @@
     "2026-06-17": 3,
     "2026-06-19": 2,
     "2026-06-21": 3,
-    "2026-06-22": 3
+    "2026-06-22": 4
   },
   "todayProblems": [
     "Maximum Number of Balloons",
     "Find All Duplicates in an Array",
-    "Continuous Subarray Sum"
+    "Continuous Subarray Sum",
+    "Maximum Product Subarray"
   ]
 }
