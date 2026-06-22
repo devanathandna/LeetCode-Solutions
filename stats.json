@@ -1,11 +1,11 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 1,
+  "totalSolved": 18,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-21",
-  "todayCount": 3,
+  "lastSyncDate": "2026-06-22",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 14,
     "hard": 0,
     "basic": 0
@@ -27,7 +27,8 @@
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Maximum_Ice_Cream_Bars": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
-    "LeetCode_Majority_Element_II": true
+    "LeetCode_Majority_Element_II": true,
+    "LeetCode_Maximum_Number_of_Balloons": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -39,11 +40,10 @@
     "2026-06-16": 1,
     "2026-06-17": 3,
     "2026-06-19": 2,
-    "2026-06-21": 3
+    "2026-06-21": 3,
+    "2026-06-22": 1
   },
   "todayProblems": [
-    "Maximum Ice Cream Bars",
-    "Subarray Sum Equals K",
-    "Majority Element II"
+    "Maximum Number of Balloons"
   ]
 }

@@ -17,3 +17,4 @@
 | 15 | [Maximum Ice Cream Bars](./LeetCode/Medium/Maximum%20Ice%20Cream%20Bars) | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | 21 Jun 2026 | 11:11 am |
 | 16 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 21 Jun 2026 | 09:51 pm |
 | 17 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 21 Jun 2026 | 09:55 pm |
+| 18 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 22 Jun 2026 | 09:10 am |
