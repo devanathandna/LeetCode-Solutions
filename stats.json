@@ -1,12 +1,12 @@
 {
-  "totalSolved": 24,
-  "currentStreak": 1,
+  "totalSolved": 25,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-25",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 17,
+    "medium": 18,
     "hard": 1,
     "basic": 0
   },
@@ -34,7 +34,8 @@
     "LeetCode_Maximum_Product_Subarray": true,
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Maximum_Depth_of_Binary_Tree": true,
-    "LeetCode_Diameter_of_Binary_Tree": true
+    "LeetCode_Diameter_of_Binary_Tree": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -49,10 +50,10 @@
     "2026-06-21": 3,
     "2026-06-22": 4,
     "2026-06-23": 1,
-    "2026-06-25": 2
+    "2026-06-25": 2,
+    "2026-06-26": 1
   },
   "todayProblems": [
-    "Maximum Depth of Binary Tree",
-    "Diameter of Binary Tree"
+    "Longest Palindromic Substring"
   ]
 }
