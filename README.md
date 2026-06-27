@@ -25,3 +25,4 @@
 | 23 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 25 Jun 2026 | 11:16 am |
 | 24 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 25 Jun 2026 | 11:25 am |
 | 25 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 26 Jun 2026 | 10:14 pm |
+| 26 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 27 Jun 2026 | 11:13 am |
