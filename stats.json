@@ -1,11 +1,11 @@
 {
-  "totalSolved": 32,
-  "currentStreak": 4,
+  "totalSolved": 33,
+  "currentStreak": 5,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-28",
+  "lastSyncDate": "2026-06-29",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 22,
     "hard": 1,
     "basic": 0
@@ -42,7 +42,8 @@
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
-    "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true
+    "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true,
+    "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -60,9 +61,10 @@
     "2026-06-25": 2,
     "2026-06-26": 1,
     "2026-06-27": 6,
-    "2026-06-28": 1
+    "2026-06-28": 1,
+    "2026-06-29": 1
   },
   "todayProblems": [
-    "Maximum Element After Decreasing and Rearranging"
+    "Number of Strings That Appear as Substrings in Word"
   ]
 }
