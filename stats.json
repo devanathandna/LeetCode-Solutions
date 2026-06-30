@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 5,
+  "totalSolved": 34,
+  "currentStreak": 6,
   "maxStreak": 8,
-  "lastSyncDate": "2026-06-29",
+  "lastSyncDate": "2026-06-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 22,
+    "medium": 23,
     "hard": 1,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
     "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true,
-    "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true
+    "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -62,9 +63,10 @@
     "2026-06-26": 1,
     "2026-06-27": 6,
     "2026-06-28": 1,
-    "2026-06-29": 1
+    "2026-06-29": 1,
+    "2026-06-30": 1
   },
   "todayProblems": [
-    "Number of Strings That Appear as Substrings in Word"
+    "Number of Substrings Containing All Three Characters"
   ]
 }
