@@ -36,3 +36,4 @@
 | 34 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 30 Jun 2026 | 01:46 pm |
 | 35 | [Binary Tree Maximum Path Sum](./LeetCode/Hard/Binary%20Tree%20Maximum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | 01 Jul 2026 | 06:42 am |
 | 36 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 01 Jul 2026 | 09:32 pm |
+| 37 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 02 Jul 2026 | 01:54 pm |
