@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 8,
+  "totalSolved": 38,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-02",
+  "lastSyncDate": "2026-07-04",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 25,
+    "medium": 26,
     "hard": 2,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "LeetCode_Binary_Tree_Maximum_Path_Sum": true,
     "LeetCode_3Sum": true,
-    "LeetCode_Recover_Binary_Search_Tree": true
+    "LeetCode_Recover_Binary_Search_Tree": true,
+    "LeetCode_Minimum_Score_of_a_Path_Between_Two_Cities": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -69,9 +70,10 @@
     "2026-06-29": 1,
     "2026-06-30": 1,
     "2026-07-01": 2,
-    "2026-07-02": 1
+    "2026-07-02": 1,
+    "2026-07-04": 1
   },
   "todayProblems": [
-    "Recover Binary Search Tree"
+    "Minimum Score of a Path Between Two Cities"
   ]
 }
