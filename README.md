@@ -39,3 +39,4 @@
 | 37 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 02 Jul 2026 | 01:54 pm |
 | 38 | [Minimum Score of a Path Between Two Cities](./LeetCode/Medium/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities) | [LeetCode](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | 04 Jul 2026 | 12:22 pm |
 | 39 | [Remove Covered Intervals](./LeetCode/Medium/Remove%20Covered%20Intervals) | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | Medium | 06 Jul 2026 | 09:10 am |
+| 40 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 07 Jul 2026 | 02:02 pm |
