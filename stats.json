@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 2,
+  "totalSolved": 41,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-07",
+  "lastSyncDate": "2026-07-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 27,
+    "medium": 28,
     "hard": 2,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "LeetCode_Recover_Binary_Search_Tree": true,
     "LeetCode_Minimum_Score_of_a_Path_Between_Two_Cities": true,
     "LeetCode_Remove_Covered_Intervals": true,
-    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true
+    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true,
+    "LeetCode_Count_the_Number_of_Complete_Components": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -75,9 +76,10 @@
     "2026-07-02": 1,
     "2026-07-04": 1,
     "2026-07-06": 1,
-    "2026-07-07": 1
+    "2026-07-07": 1,
+    "2026-07-11": 1
   },
   "todayProblems": [
-    "Concatenate Non-Zero Digits and Multiply by Sum I"
+    "Count the Number of Complete Components"
   ]
 }
