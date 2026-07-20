@@ -42,3 +42,4 @@
 | 40 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 07 Jul 2026 | 02:02 pm |
 | 41 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 11 Jul 2026 | 01:29 pm |
 | 42 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 12 Jul 2026 | 05:26 pm |
+| 43 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 09:13 am |
