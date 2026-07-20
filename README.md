@@ -43,3 +43,4 @@
 | 41 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 11 Jul 2026 | 01:29 pm |
 | 42 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 12 Jul 2026 | 05:26 pm |
 | 43 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 09:13 am |
+| 44 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 20 Jul 2026 | 11:33 am |
