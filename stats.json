@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-20",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 29,
+    "medium": 30,
     "hard": 2,
     "basic": 0
   },
@@ -54,7 +54,8 @@
     "LeetCode_Count_the_Number_of_Complete_Components": true,
     "LeetCode_Rank_Transform_of_an_Array": true,
     "LeetCode_Shift_2D_Grid": true,
-    "GeeksForGeeks_Count_Inversions": true
+    "GeeksForGeeks_Count_Inversions": true,
+    "LeetCode_Wiggle_Sort_II": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -82,10 +83,10 @@
     "2026-07-07": 1,
     "2026-07-11": 1,
     "2026-07-12": 1,
-    "2026-07-20": 2
+    "2026-07-20": 2,
+    "2026-07-22": 1
   },
   "todayProblems": [
-    "Shift 2D Grid",
-    "Count Inversions"
+    "Wiggle Sort II"
   ]
 }

@@ -44,3 +44,4 @@
 | 42 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 12 Jul 2026 | 05:26 pm |
 | 43 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 09:13 am |
 | 44 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 20 Jul 2026 | 11:33 am |
+| 45 | [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) | [LeetCode](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | 22 Jul 2026 | 12:23 pm |
