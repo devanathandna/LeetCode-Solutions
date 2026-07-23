@@ -45,3 +45,4 @@
 | 43 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 09:13 am |
 | 44 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 20 Jul 2026 | 11:33 am |
 | 45 | [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) | [LeetCode](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | 22 Jul 2026 | 12:23 pm |
+| 46 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 12:07 pm |
