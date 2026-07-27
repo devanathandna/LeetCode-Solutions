@@ -1,11 +1,11 @@
 {
-  "totalSolved": 46,
-  "currentStreak": 2,
+  "totalSolved": 47,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-23",
+  "lastSyncDate": "2026-07-27",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 31,
     "hard": 2,
     "basic": 0
@@ -56,7 +56,8 @@
     "LeetCode_Shift_2D_Grid": true,
     "GeeksForGeeks_Count_Inversions": true,
     "LeetCode_Wiggle_Sort_II": true,
-    "LeetCode_Number_of_Unique_XOR_Triplets_I": true
+    "LeetCode_Number_of_Unique_XOR_Triplets_I": true,
+    "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -86,9 +87,10 @@
     "2026-07-12": 1,
     "2026-07-20": 2,
     "2026-07-22": 1,
-    "2026-07-23": 1
+    "2026-07-23": 1,
+    "2026-07-27": 1
   },
   "todayProblems": [
-    "Number of Unique XOR Triplets I"
+    "Maximum Product of Two Elements in an Array"
   ]
 }

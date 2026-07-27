@@ -46,3 +46,4 @@
 | 44 | [Count Inversions](./GeeksForGeeks/Medium/Count%20Inversions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Medium | 20 Jul 2026 | 11:33 am |
 | 45 | [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) | [LeetCode](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | 22 Jul 2026 | 12:23 pm |
 | 46 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 23 Jul 2026 | 12:07 pm |
+| 47 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 27 Jul 2026 | 11:37 am |
