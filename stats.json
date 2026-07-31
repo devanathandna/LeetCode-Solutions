@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 1,
+  "totalSolved": 49,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-30",
+  "lastSyncDate": "2026-07-31",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 31,
+    "medium": 32,
     "hard": 2,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "LeetCode_Wiggle_Sort_II": true,
     "LeetCode_Number_of_Unique_XOR_Triplets_I": true,
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
-    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
+    "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -90,9 +91,10 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-27": 1,
-    "2026-07-30": 1
+    "2026-07-30": 1,
+    "2026-07-31": 1
   },
   "todayProblems": [
-    "Minimum Number of Pushes to Type Word I"
+    "Minimum Number of Pushes to Type Word II"
   ]
 }
