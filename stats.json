@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-08-23",
+  "lastSyncDate": "2026-08-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 33,
+    "medium": 34,
     "hard": 2,
     "basic": 0
   },
@@ -60,7 +60,8 @@
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee": true,
+    "LeetCode_Course_Schedule": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -94,9 +95,10 @@
     "2026-07-27": 1,
     "2026-07-30": 1,
     "2026-07-31": 1,
-    "2026-08-23": 1
+    "2026-08-23": 1,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock with Transaction Fee"
+    "Course Schedule"
   ]
 }
