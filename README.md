@@ -51,3 +51,4 @@
 | 49 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 09:32 am |
 | 50 | [Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | 23 Aug 2026 | 08:22 am |
 | 51 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 27 Aug 2026 | 09:29 am |
+| 52 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 11 Sept 2026 | 11:39 am |
