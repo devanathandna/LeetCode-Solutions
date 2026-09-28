@@ -52,3 +52,4 @@
 | 50 | [Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | 23 Aug 2026 | 08:22 am |
 | 51 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 27 Aug 2026 | 09:29 am |
 | 52 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 11 Sept 2026 | 11:39 am |
+| 53 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 28 Sept 2026 | 03:50 pm |

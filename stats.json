@@ -1,12 +1,12 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-09-11",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 34,
+    "medium": 35,
     "hard": 2,
     "basic": 0
   },
@@ -62,7 +62,8 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee": true,
     "LeetCode_Course_Schedule": true,
-    "LeetCode_Reverse_Linked_List": true
+    "LeetCode_Reverse_Linked_List": true,
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -98,9 +99,10 @@
     "2026-07-31": 1,
     "2026-08-23": 1,
     "2026-08-27": 1,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Reverse Linked List"
+    "Length of Longest Subarray With at Most K Frequency"
   ]
 }
