@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 1,
+  "totalSolved": 55,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-13",
+  "lastSyncDate": "2026-10-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 36,
+    "medium": 37,
     "hard": 2,
     "basic": 0
   },
@@ -64,7 +64,8 @@
     "LeetCode_Course_Schedule": true,
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Maximize_Sum_of_Squares_of_Digits": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -102,9 +103,10 @@
     "2026-08-27": 1,
     "2026-09-11": 1,
     "2026-09-28": 1,
-    "2026-10-13": 1
+    "2026-10-13": 1,
+    "2026-10-14": 1
   },
   "todayProblems": [
-    "Find First and Last Position of Element in Sorted Array"
+    "Maximize Sum of Squares of Digits"
   ]
 }
