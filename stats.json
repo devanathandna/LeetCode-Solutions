@@ -1,12 +1,12 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 2,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 37,
+    "medium": 38,
     "hard": 2,
     "basic": 0
   },
@@ -65,7 +65,8 @@
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
-    "LeetCode_Maximize_Sum_of_Squares_of_Digits": true
+    "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -104,9 +105,10 @@
     "2026-09-11": 1,
     "2026-09-28": 1,
     "2026-10-13": 1,
-    "2026-10-14": 1
+    "2026-10-14": 2
   },
   "todayProblems": [
-    "Maximize Sum of Squares of Digits"
+    "Maximize Sum of Squares of Digits",
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
