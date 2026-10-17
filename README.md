@@ -57,3 +57,4 @@
 | 55 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 09:10 am |
 | 56 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 14 Oct 2026 | 09:22 am |
 | 57 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 14 Oct 2026 | 09:34 am |
+| 58 | [Path Sum II](./LeetCode/Medium/Path%20Sum%20II) | [LeetCode](https://leetcode.com/problems/path-sum-ii/) | Medium | 17 Oct 2026 | 02:43 pm |

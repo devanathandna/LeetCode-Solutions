@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
-  "currentStreak": 2,
+  "totalSolved": 58,
+  "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-14",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 39,
+    "medium": 40,
     "hard": 2,
     "basic": 0
   },
@@ -67,7 +67,8 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Path_Sum_II": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -106,11 +107,10 @@
     "2026-09-11": 1,
     "2026-09-28": 1,
     "2026-10-13": 1,
-    "2026-10-14": 3
+    "2026-10-14": 3,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "Maximize Sum of Squares of Digits",
-    "Find Minimum in Rotated Sorted Array",
-    "Find Peak Element"
+    "Path Sum II"
   ]
 }
