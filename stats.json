@@ -1,12 +1,12 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 40,
+    "medium": 41,
     "hard": 2,
     "basic": 0
   },
@@ -69,7 +69,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Path_Sum_II": true,
-    "LeetCode_Minimum_Time_to_Type_Word_Using_Special_Typewriter": true
+    "LeetCode_Minimum_Time_to_Type_Word_Using_Special_Typewriter": true,
+    "LeetCode_Reverse_Words_in_a_String": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -110,9 +111,10 @@
     "2026-10-13": 1,
     "2026-10-14": 3,
     "2026-10-17": 1,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "Minimum Time to Type Word Using Special Typewriter"
+    "Minimum Time to Type Word Using Special Typewriter",
+    "Reverse Words in a String"
   ]
 }

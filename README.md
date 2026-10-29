@@ -59,3 +59,4 @@
 | 57 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 14 Oct 2026 | 09:34 am |
 | 58 | [Path Sum II](./LeetCode/Medium/Path%20Sum%20II) | [LeetCode](https://leetcode.com/problems/path-sum-ii/) | Medium | 17 Oct 2026 | 02:43 pm |
 | 59 | [Minimum Time to Type Word Using Special Typewriter](./LeetCode/Easy/Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | Easy | 29 Oct 2026 | 10:54 am |
+| 60 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 29 Oct 2026 | 12:18 pm |
