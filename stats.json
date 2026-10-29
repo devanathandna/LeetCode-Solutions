@@ -1,11 +1,11 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-17",
+  "lastSyncDate": "2026-10-29",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 40,
     "hard": 2,
     "basic": 0
@@ -68,7 +68,8 @@
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Peak_Element": true,
-    "LeetCode_Path_Sum_II": true
+    "LeetCode_Path_Sum_II": true,
+    "LeetCode_Minimum_Time_to_Type_Word_Using_Special_Typewriter": true
   },
   "activityHistory": {
     "2026-06-10": 1,
@@ -108,9 +109,10 @@
     "2026-09-28": 1,
     "2026-10-13": 1,
     "2026-10-14": 3,
-    "2026-10-17": 1
+    "2026-10-17": 1,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Path Sum II"
+    "Minimum Time to Type Word Using Special Typewriter"
   ]
 }
